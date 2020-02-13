@@ -27,7 +27,7 @@ SECRET_KEY = 'o!=d_s92ve48u_h^y_hya@mp9m^u7mrsv1oa)s5rj^j@+jowr6'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '.azurewebsites.net'
+    '*'
 ]
 # Application definition
 
